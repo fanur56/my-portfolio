@@ -1,0 +1,29 @@
+.remoteWorkBlock {
+    background-color: #a4ff79;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.remoteWorkBlock h4 {
+    margin: 0;
+    background-color: #b8b6ba;
+    padding: 5px;
+    text-align: center;
+}
+
+.toHire {
+    font-size: 14px;
+    width: 120px;
+    height: 30px;
+    background-color: #756d6f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFF;
+}
+
+.remoteWorkContainer {
+    flex-direction: column;
+}

@@ -1,0 +1,26 @@
+.projectsBlock {
+    background-color: #c4bddd;
+    padding: 20px 0;
+}
+
+.projects {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.projects h3 {
+    margin: 0;
+    background: #57b4ff;
+}
+
+.myProjects {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    border: 1px solid;
+    width: 100%;
+}

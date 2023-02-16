@@ -1,0 +1,19 @@
+.greetings {
+    height: 100vh;
+    background-color: #eebbd9;
+}
+
+.container {
+    flex-wrap: wrap;
+}
+
+.text {
+    background-color: #ab9e95;
+    width: 300px;
+}
+
+.photo {
+    height: 300px;
+    width: 200px;
+    background-color: #ab9e95;
+}
